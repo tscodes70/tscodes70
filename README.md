@@ -3,19 +3,23 @@
 <h5 align="center">Student in SIT, Bachelor's Degree in ICT majoring in IS</h5>
 
 <p align="center">
-  <!-- Stats Row -->
-  <img src="https://komarev.com/ghpvc/?username=tscodes70&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/stars/tscodes70?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=blue" alt="Total stars" />
-  <img src="https://img.shields.io/github/followers/tscodes70?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=tscodes70&label=Views&color=bd93f9&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/stars/tscodes70?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=github&logoColor=f8f8f2&label=Stars&labelColor=282a36&color=ffb86c" alt="Total stars" />
+  <img src="https://img.shields.io/github/followers/tscodes70?style=flat-square&logo=github&logoColor=f8f8f2&label=Followers&labelColor=282a36&color=50fa7b" alt="GitHub followers" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftscodes70&query=%24.public_repos&label=Public%20Repos&style=flat-square&logo=github&logoColor=f8f8f2&labelColor=282a36&color=8be9fd&cacheSeconds=3600" alt="Public repos" />
 </p>
 
 <p align="center" style="margin-top:-10px">
-  <!-- Contact Row -->
-  <a href="https://www.linkedin.com/in/timothy-see-jun-jie/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/timothy-see-jun-jie/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=f8f8f2&labelColor=282a36" alt="LinkedIn" />
   </a>
-  <a href="mailto:sck.timothy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&style=flat" alt="Email" />
+  &nbsp;
+  <a href="mailto:sck.timothy@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=f8f8f2&labelColor=282a36" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://tscodes70.github.io/tscodes/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-tscodes70.github.io%2Ftscodes-8be9fd?style=for-the-badge&logo=firefox-browser&logoColor=f8f8f2&labelColor=282a36" alt="Portfolio" />
   </a>
 </p>
 
@@ -24,7 +28,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tscodes70&theme=dracula" alt="tscodes70" /></p>
 <img src="https://github-readme-stats-c7effwzlt-tscodes70s-projects.vercel.app/api?username=tscodes70&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
 <img src="https://github-readme-stats-c7effwzlt-tscodes70s-projects.vercel.app/api/top-langs?username=tscodes70&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tscodes70&row=2&column=5&theme=dracula" alt="tscodes70"/> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tscodes70&row=2&column=5&theme=dracula" alt="tscodes70" /></a> </p>
 </div>
 
 <h3>🏆 Other Platforms</h3>
@@ -37,12 +41,8 @@
     <a href="https://www.codewars.com/users/tscodes70" target="_blank" rel="noreferrer">
         <img src="https://github.r2v.ch/codewars?user=tscodes70" alt="Codewars" />
   </a>
-  <br/>
-  <a href="https://tscodes70.github.io/tscodes/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-tscodes70.github.io%2Ftscodes-bd93f9?style=for-the-badge&logo=firefox-browser&logoColor=f8f8f2&labelColor=282a36&color=8be9fd" alt="Portfolio" height="110" />
-  </a>
+  
 </p>
-
 
 <h3 align="left">⚒️Languages and Tools:</h3>
 
