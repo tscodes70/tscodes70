@@ -24,7 +24,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tscodes70&theme=dracula" alt="tscodes70" /></p>
 <img src="https://github-readme-stats-c7effwzlt-tscodes70s-projects.vercel.app/api?username=tscodes70&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
 <img src="https://github-readme-stats-c7effwzlt-tscodes70s-projects.vercel.app/api/top-langs?username=tscodes70&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tscodes70&row=2&column=5&theme=dracula" alt="tscodes70" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tscodes70&row=2&column=5&theme=dracula" alt="tscodes70"/> </p>
 </div>
 
 <h3>🏆 Other Platforms</h3>
