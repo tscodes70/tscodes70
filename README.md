@@ -37,7 +37,10 @@
     <a href="https://www.codewars.com/users/tscodes70" target="_blank" rel="noreferrer">
         <img src="https://github.r2v.ch/codewars?user=tscodes70" alt="Codewars" />
   </a>
-  
+  <br/>
+  <a href="https://tscodes70.github.io/tscodes/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-tscodes70.github.io%2Ftscodes-bd93f9?style=for-the-badge&logo=firefox-browser&logoColor=f8f8f2&labelColor=282a36&color=8be9fd" alt="Portfolio" height="110" />
+  </a>
 </p>
 
 
